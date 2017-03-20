@@ -1,0 +1,16 @@
+{
+  "name": "adapt-dnd",
+  "version": "0.0.1",
+  "framework": "^2.0.0",
+  "homepage": "http://www.moch.dk",
+  "issues": "http://www.moch.dk",
+  "displayName" : "DnD",
+  "component" : "dnd",
+  "description": "A simple Drag and Drop exercise specifically for TDC",
+  "main": "/js/adapt-dnd.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}

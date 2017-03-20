@@ -1,0 +1,12 @@
+{
+    "_id":"c-05",
+    "_parentId":"b-05",
+    "_type":"component",
+    "_component":"dnd",
+    "_classes":"",
+    "_layout":"full",
+    "title":"DnD for TDC",
+    "displayTitle":"Hvilke typer af oplysninger, tror du, er personoplysninger?",
+    "body":"STAR WARS",
+    "instruction":""
+}
